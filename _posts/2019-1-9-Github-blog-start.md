@@ -13,6 +13,8 @@ jekyll 테마로 GitHub 블로그를 간단하게 만들 수 있습니다.
 
 ![kiko-now](https://user-images.githubusercontent.com/33515697/50897526-b5686380-144f-11e9-8d3a-a7901bd72a3c.png)
 
+--- 
+
 ## 내 GitHub에 유저명.github.io 이름으로 repository 만들기
 
 Github에 1.Fork를 하거나 2.Download ZIP을 클릭해서 본인 Github repository에 추가합니다.
