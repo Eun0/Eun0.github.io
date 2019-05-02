@@ -6,6 +6,7 @@ use_math : true
 comments: true
 ---
 
+정렬 포스트 중 첫 번째 포스트 버블 소트입니다.
 
 # 버블 소트 (Bubble sort)
 
